@@ -172,6 +172,33 @@ Wita and Rotama brochures share the same office footer and word-for-word terms, 
 
 ---
 
+## 7b. Hidden costs (not covered by any tour)
+
+All six tours **exclude** these: optional tours, excess baggage and customs duty, hotel and airport porters, personal spending, and the single-room supplement if you travel alone. Each also skips some of the items below. The estimates use assumptions you can edit on the workbook's *Notes* sheet: Rp 175k per meal, Rp 750k per free day, Rp 150k for an eSIM, and Rp 450k for insurance.
+
+| Not covered → estimated spend | Aviatour | Bayu Buana | Obaja | Panorama | Wita | Rotama |
+|---|---|---|---|---|---|---|
+| Meals you buy in Korea | 6 · Rp 1.05M | 8 · Rp 1.40M | 10 · Rp 1.75M | 7 · Rp 1.23M | 7 · Rp 1.23M | 9 · Rp 1.58M |
+| Free-day spending | – | – | Rp 0.75M | Rp 0.75M | – | – |
+| Mobile data / eSIM | Rp 0.15M | SIM included | SIM included | Rp 0.15M | Rp 0.15M | Rp 0.15M |
+| Travel insurance | included | included | (Rp 0.6M already in all-in) | **not stated** · Rp 0.45M | included | included |
+| Meals on the plane | included (SQ) | included (SQ) | included (SQ) | included (SQ) | included (SQ) | **low-cost airline** · Rp 0.30M |
+| **Estimated hidden costs** | **Rp 1.20M** | **Rp 1.40M** | **Rp 2.50M** | **Rp 2.58M** | **Rp 1.38M** | **Rp 2.03M** |
+| All-in price | 26.95M | 28.58M | 19.52M | 25.65M | 28.95M | 11.30M |
+| **TRUE TRIP COST** | **28.15M** | **29.98M** | **22.02M** | **28.23M** | **30.33M** | **13.33M** |
+| True cost per day | 4.02M | 4.28M | 3.15M | 3.53M | 4.33M | 2.67M |
+
+**Risks, which apply only if they happen:**
+- Bayu Buana: +Rp 3M if the limited discount is sold out.
+- Wita: +~Rp 0.73M if the Lotte World ticket turns out not to be included.
+- Rotama: +~Rp 0.75M if the low-cost group fare has no checked bag.
+- Aviatour: the tipping amount is unknown.
+- Fines for skipping a compulsory shop: Obaja Rp 1M per shop, Wita Rp 3M, Rotama Rp 4M.
+
+**What changes:** Obaja and Panorama lose most of their price advantage, because each has a free day and few dinners. Panorama's true cost (28.2M) ends up about the same as Aviatour's (28.1M). Per day, Panorama is still cheaper because it is a day longer. Wita stays the most expensive, at about 30.3M.
+
+---
+
 ## 8. Season check (matters for flower-themed tours)
 
 Bloom dates shift every year. The windows below are typical, not guaranteed.
