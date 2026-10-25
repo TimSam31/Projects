@@ -1,6 +1,6 @@
 # Korea Tour Package Comparison
 
-Five Korea group-tour brochures (scanned PDFs, in Bahasa Indonesia) converted to Markdown and compared.
+Six Korea group-tour brochures (scanned PDFs, in Bahasa Indonesia) converted to Markdown and compared.
 
 - **[comparison.md](comparison.md)**: price, number of days, hotels, meals, flights, terms, season check
 - **[sightseeing-comparison.md](sightseeing-comparison.md)**: attraction matrix (facts) plus a separate subjective assessment
@@ -14,5 +14,6 @@ Five Korea group-tour brochures (scanned PDFs, in Bahasa Indonesia) converted to
 | Obaja | Sparkling Korea Busan + Nami Island & 1D Free Time Seoul | 7D/5N | 16 Mar 2027 | [obaja.md](itineraries/obaja.md) |
 | Panorama JTB | Korea Busan + Maehwa Village, Gurye Sansuyu Village & Strawberry Picking | 8D/6N | 16 Mar 2027 | [panorama.md](itineraries/panorama.md) |
 | Rotama | Rotama Korea Highlights & Inspire Aurora Square by TW | 5D/3N | 11 Nov | [rotama.md](itineraries/rotama.md) |
+| Wita (Leisure Holiday) | Leisure Korea, Busan, Jinhae Cherry Blossom & Lotte World by SQ | 7D/5N | 26 Mar | [wita.md](itineraries/wita.md) |
 
 Transcription notes: the itinerary text is kept in its original language. Handwritten agent notes are recorded, but the agents' personal phone numbers are left out. Bayu Buana's 3rd page was too blurred to read.
