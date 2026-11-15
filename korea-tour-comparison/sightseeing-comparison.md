@@ -126,6 +126,18 @@ Panorama has the fewest forced shop stops. Bayu Buana has the most shopping over
 - **Weaknesses:** No Busan and no countryside. November means late autumn and cold weather, with no flowers. It is a different product from the other five.
 - **Feels like:** a quick Seoul getaway, not a full Korea tour.
 
+### Golden Rama Korea: *a budget Seoul-area tour with a dash of history* (added later; full matrix in the workbook)
+- **Visits:** Nami Island, Eunpyeong Hanok Village, Suwon Hwaseong Fortress (UNESCO), Starfield Library, Hyanggoro Street, Gyeongbok Palace in hanbok, the Blue House and National Folk Museum (drive-by), Cheonggyecheon Stream, Dongdaemun, N Seoul Tower by electric vehicle, and Myeongdong. Experiences: gimbap and kimchi making, plus a free day. About 13 sights and experiences.
+- **Strengths:** Suwon Fortress is a real highlight that no other tour includes. It also has Nami, a quiet hanok village, and good hands-on activities.
+- **Weaknesses:** no Busan or countryside beyond Nami and Suwon. It runs in mid-March, so no blossoms. There are 5 compulsory shops with a USD 200 fine for skipping, and the hotels may be in Incheon or Gyeonggi.
+- **Feels like:** good value if Busan isn't a must.
+
+### Golden Rama Japan: *the classic Golden Route* (different country; scored on its own merits)
+- **Visits:** Tokyo Skytree (photo), Asakusa Kannon Temple, Nakamise Street, Shibuya Crossing & Hachiko, Iyashi no Sato, Gotemba Premium Outlets, Mt Fuji 5th Station (weather permitting), Oshino Hakkai, Arashiyama Bamboo Forest, Fushimi Inari, Osaka Castle (photo), Kuromon Ichiba Market and Shinsaibashi. Experiences: kimono, a Shinkansen ride, yukata & onsen, and a free day in Tokyo. About 13 sights and experiences.
+- **Strengths:** iconic scenery and culture packed into one route, with no compulsory shopping.
+- **Weaknesses:** a busy, hotel-hopping pace, few included meals, and the highest price.
+- **Feels like:** the best-known Japan sampler; a different trip rather than an alternative Korea tour.
+
 ### Subjective scorecard (out of 5)
 
 | | Aviatour | Bayu Buana | Obaja | Panorama | Wita | Rotama |
@@ -137,6 +149,8 @@ Panorama has the fewest forced shop stops. Bayu Buana has the most shopping over
 | Hands-on / fun | ★★★ | ★★★★★ | ★★ | ★★★★ | ★★★★ (Lotte World, kimbap, KTX) | ★★★ |
 | Low shopping pressure | ★★★ | ★★ | ★★ | ★★★★ | ★★★ | ★★★ |
 | Uniqueness of itinerary | ★★★ | ★★★★ | ★★ | ★★★★★ | ★★★★ | ★★★ |
+
+Scores for the two Golden Rama tours (same criteria): **Golden Rama Korea**: variety ★★★, cherry blossom ★, culture ★★★★, nature ★★★, hands-on ★★★★, low shopping ★★, uniqueness ★★★ (avg 2.9). **Golden Rama Japan**: variety ★★★★★, cherry blossom ★★★, culture ★★★★★, nature ★★★★★, hands-on ★★★★, low shopping ★★★★★, uniqueness ★★★★ (avg 4.4).
 
 **My subjective pick:**
 - **Panorama** for the most memorable, least "standard" spring trip, if cherry blossom isn't essential.

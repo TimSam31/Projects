@@ -1,6 +1,6 @@
 # Korea Tour Packages: Comparison
 
-Six group-tour offers from Jakarta, transcribed from the scanned brochures in [`itineraries/`](itineraries/).
+Eight group-tour offers from Jakarta (six Korea tours in the detailed sections below, plus two Golden Rama tours, Korea and **Japan**, summarised in §0), transcribed from the scanned brochures in [`itineraries/`](itineraries/).
 This file compares the **objective** points: price, number of days, hotels, meals and flights.
 Sightseeing is more a matter of taste, so it has its own file: **[sightseeing-comparison.md](sightseeing-comparison.md)**.
 
@@ -14,6 +14,36 @@ Sightseeing is more a matter of taste, so it has its own file: **[sightseeing-co
 | 6 | **Wita (Leisure Holiday)** | 7D/5N Leisure Korea, Busan, Jinhae Cherry Blossom & Lotte World by SQ | 26 Mar (2027, presumed) | [wita.md](itineraries/wita.md) |
 
 > **Rotama is a different kind of trip.** It is a short 5-day, Seoul-only tour in November on a low-cost airline. The other five are 7–8 day spring tours that cover Busan and Seoul on Singapore Airlines. Rotama is included below, but compare it with care.
+
+---
+
+## 0. All 8 packages at a glance (incl. Golden Rama Korea & Japan)
+
+The full 8-way comparison, with every row (hidden costs, hotels, meals, sightseeing), is in **`korea-tour-comparison.xlsx`**. The detailed sections after this one cover the original six Korea tours.
+
+| | Aviatour | Bayu Buana | Obaja | Panorama | Wita | **Golden Rama KR** | Rotama | **Golden Rama JP** |
+|---|---|---|---|---|---|---|---|---|
+| Destination | Korea | Korea | Korea | Korea | Korea | Korea | Korea | **Japan** |
+| Departure | 4 Apr 2027 | 5–7 Apr 2027 | 16 Mar 2027 | 16 Mar 2027 | 26 Mar 2027 | 13 Mar 2027 | 11 Nov 2026 (passed) | 17/18 Mar 2027 |
+| Days / nights | 7D/5N | 7D/5N | 7D/5N | 8D/6N | 7D/5N | 7D/5N | 5D/3N | 8D/6N |
+| Airline | Singapore | Singapore | Singapore | Singapore | Singapore | Trinity (low-cost, direct) | Trinity (low-cost, direct) | Malaysia Airlines (via KL) |
+| Hotels | 3★, unnamed | unnamed | 3★, named | named, city centre | **4★**, named | 3★, Seoul/Gyeonggi/Incheon | 3★, outside Seoul | 3★, unnamed, 4 changes |
+| Meals included | 12 | 10 | 8 | **14** | 11 | 10 | 3 | 7 |
+| All-in price | 26.95M | 28.58M | 19.52M | 25.65M | 28.95M | **15.66M** | 11.30M | 33.19M |
+| Hidden costs (est.) | 1.20M | 1.40M | 2.50M | 2.58M | 1.38M | 2.60M | 2.03M | 3.35M |
+| **True trip cost** | **28.15M** | **29.98M** | **22.02M** | **28.23M** | **30.33M** | **18.26M** | **13.33M** | **36.54M** |
+| Sights & experiences | 18 | 15 | 9 | 19 | 18 | 13 | 13 | 13 |
+| Compulsory shops | 5 | 6 | 5 | 4 | 4 | 5 (USD 200 fine) | 4 | **none** |
+
+### Golden Rama Korea: Super Sale Nami Island + Eunpyong Hanok & Starfield (13 Mar 2027)
+- **Price:** Rp 11,388,000 + Rp 3.2M airport tax + 1.1% PPN, with the group visa and insurance included. Tipping isn't stated; the workbook estimates Rp 950k. That gives **≈ Rp 15.7M all-in and ≈ Rp 18.3M true cost**, the **cheapest 7-day Korea tour** by about Rp 3.8M versus Obaja.
+- **Trade-offs:** no Busan. It flies the low-cost Trinity Airways direct (check baggage, and meals are likely paid). All 5 nights are "Seoul / Gyeonggi / Incheon", so possibly outside Seoul. It has a free day and only 1 dinner. Skipping the compulsory shops costs **USD 200**. It travels in mid-March, before cherry blossom.
+- **Pluses:** Suwon Hwaseong Fortress (UNESCO), Nami Island, Eunpyeong Hanok Village, hanbok at Gyeongbok, gimbap and kimchi making, and a relaxed 15:20 flight home.
+
+### Golden Rama Japan: Super Sale Japan Golden Route (18 Mar 2027)
+- **Price:** Rp 31,888,000 with airport tax and PPN included. The agent's handwritten quote is **Rp 32,188,000**, i.e. price + ~Rp 300k, which suggests the e-passport visa-waiver route; a regular-passport visa is Rp 2.1M. Tipping isn't stated (the agent's note reads roughly "2USD + 500 yen"; the workbook estimates Rp 1.0M). That gives **≈ Rp 33.2M all-in and ≈ Rp 36.5M true cost**, the most expensive package.
+- **Trade-offs:** breakfast-only on most days (7 meals included, about 14 to buy). There is an ~8 h layover in Kuala Lumpur on the way out. The hotel changes 4 times. The Tokyo free day has no transport.
+- **Pluses:** the classic first-timer route: Asakusa, Shibuya, Mt Fuji 5th Station, Oshino Hakkai, Arashiyama, Fushimi Inari, Osaka, a Shinkansen ride, kimono, and an onsen night. **No compulsory shop stops.** Tokyo's cherry blossom often starts around 20–25 Mar, so an early bloom is possible.
 
 ---
 
